@@ -15,6 +15,7 @@ view: order_items {
       date,
       week,
       week_of_year,
+      minute15,
       month,
       quarter,
       year
